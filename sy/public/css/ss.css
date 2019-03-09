@@ -1,0 +1,9 @@
+.popup .el-dialog__header{
+		padding: 5px 10px !important;
+	}
+	.popup .el-dialog__body{
+		padding: 5px 10px !important;
+	}
+	.popup .el-dialog--center .el-dialog__body{
+		padding: 5px 10px !important;
+	}
